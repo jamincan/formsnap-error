@@ -11,6 +11,7 @@
 		<Form.Input />
 		<Form.Validation />
 	</Form.Field>
+    <button type="submit">Submit</button>
 </Form.Root>
 
 <style>
